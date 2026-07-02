@@ -59,4 +59,4 @@ You guessed it in 2 attempts!
 This project is open source and available for anyone to use or modify.
 
 ##project URL
-guess me .py
+https://roadmap.sh/projects/number-guessing-game
